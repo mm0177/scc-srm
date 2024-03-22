@@ -4,6 +4,8 @@
 ## TEST IMAGES:1200 IMAGES
 ## VALID IMAGES:1200 IMAGES
 
+## link for the dataset https://www.kaggle.com/datasets/mmeyyappan/singapore-yolo
+
  ## IMAGES HAVE BEEN ANNOATED AND THEN TRAINED USING YOLO V8n
 
 ## Confidence of 0.7-0.9 has been achieved in classifying the objects
