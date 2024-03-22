@@ -9,7 +9,7 @@
 ## Confidence of 0.7-0.9 has been achieved in classifying the objects
 
 ## Classes of Objects That Have Been Annotataed 
-*objects 
+* objects 
 *Boat 
 *Buoy 
 *Ferry 
