@@ -1,0 +1,6 @@
+train: /kaggle/input/singapore-yolo/Singapore maritime.v5i.yolov8/train
+val: /kaggle/input/singapore-yolo/Singapore maritime.v5i.yolov8/valid
+test: /kaggle/input/singapore-yolo/Singapore maritime.v5i.yolov8/test
+
+nc: 9
+names: ['Boat', 'Buoy', 'Ferry', 'Flying bird-plane', 'Kayak', 'Other', 'Sail boat', 'Speed boat', 'Vessel-ship']
