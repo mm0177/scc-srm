@@ -10,12 +10,12 @@
 
 ## Classes of Objects That Have Been Annotataed 
 * objects 
-*Boat 
-*Buoy 
-*Ferry 
-###Flying bird-plane 
-###Sail boat 
-###Speed boat 
-###Vessel-ship
+* Boat 
+* Buoy 
+* Ferry
+* Flying bird-plane 
+* Sail boat 
+* Speed boat 
+* Vessel-ship
    
 
